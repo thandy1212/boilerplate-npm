@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Taylor Handy"
+	"author": "Taylor Handy",
+	"description": "This is a package for the api course from freecodecamp.org"
 }
