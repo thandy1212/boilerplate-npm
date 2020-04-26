@@ -15,5 +15,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Taylor Handy",
-	"description": "This is a package for the api course from freecodecamp.org"
+	"description": "This is a package for the api course from freecodecamp.org",
+	"keywords": ["freecodecamp", "npm"]
 }
