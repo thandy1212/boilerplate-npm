@@ -17,5 +17,6 @@
 	"author": "Taylor Handy",
 	"description": "This is a package for the api course from freecodecamp.org",
 	"keywords": ["freecodecamp", "npm"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
